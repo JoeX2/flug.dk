@@ -58,10 +58,10 @@
                             <a href="https://www.facebook.com/groups/flug.dk" target="_blank">
                                 <img src="/assets/fb_icon.png" alt="FB"/>
                             </a>
-			   &nbsp;
-			    <a rel="me" href="https://mastodon.social/@flug_dk" target="_blank">
-				<img src="/assets/mastodon_logo.png" alt="Mastodon" />
-			    </a>
+			                &nbsp;
+			                <a rel="me" href="https://mastodon.social/@flug_dk" target="_blank">
+				                <img src="/assets/mastodon_logo.png" alt="Mastodon" />
+			                </a>
                         </div>
                     </div>
                 </div>
@@ -115,6 +115,21 @@
                                 <li>
                                     <a href="https://www.facebook.com/groups/flug.dk" target="_blank">
                                         Facebook
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://mastodon.social/@flug_dk" target="_blank">
+                                        <img height="30" src="/assets/mastodon_logo.png" alt="Mastodon"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://mastodon.social/@flug_dk" target="_blank">
+                                        Mastodon
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.meetup.com/flug-fyns-linux-user-group/" target="_blank">
+                                        <img height="30" src="/assets/meetup.png" alt="Meetup"/>
                                     </a>
                                 </li>
                             </ul>
