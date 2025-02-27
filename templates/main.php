@@ -58,6 +58,10 @@
                             <a href="https://www.facebook.com/groups/flug.dk" target="_blank">
                                 <img src="/assets/fb_icon.png" alt="FB"/>
                             </a>
+			                &nbsp;
+			                <a rel="me" href="https://mastodon.social/@flug_dk" target="_blank">
+				                <img src="/assets/mastodon_logo.png" alt="Mastodon" />
+			                </a>
                         </div>
                     </div>
                 </div>
@@ -75,19 +79,16 @@
                             Alle er velkomne, og medlemsskabet er gratis og uforpligtende. 
                         </p>
                         <p>
-                            FLUG holder møde ca. hver fjortende dag. Ved disse 
-                            møder afholder vi foredrag om et Open Source relateret. 
-                            Ca. en gang om måneden afholder vi desuden et install party på et aktuelt emne. 
-                            Emnet til vores install party, kan være alt inden for Open Source, og afspringer 
+                            FLUG holder møde ca. en gang om måneden. Ved disse
+                            møder afholder vi foredrag om et Open Source relateret emne.
+                            Indimellem afholder vi også install parties om aktuelle emner.
+                            Emnet til vores install party, kan være alt inden for Open Source, og afspringer
                             ofte af et emne til et af vores foredrag, hvis vi ønsker at grave dybere ned i emnet.
                         </p>
                         <p>
                             FLUG startede i 1996 som en interessegruppe for studerende på Odense Universitet. 
                             I dag er FLUGs medlemmer en bred skare af alt fra postbude, gymnasieelever, deres 
                             lærere til professionelle systemadministratorer.
-                        </p>
-                        <p>
-                            Er du interesseret i at komme til et af vores møder, så send en mail til <a href="mailto:flug-misc@flug.dk">flug-misc@flug.dk</a>.
                         </p>
                     </div>
                 </div>
@@ -114,6 +115,21 @@
                                 <li>
                                     <a href="https://www.facebook.com/groups/flug.dk" target="_blank">
                                         Facebook
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://mastodon.social/@flug_dk" target="_blank">
+                                        <img height="30" src="/assets/mastodon_logo.png" alt="Mastodon"/>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://mastodon.social/@flug_dk" target="_blank">
+                                        Mastodon
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://www.meetup.com/flug-fyns-linux-user-group/" target="_blank">
+                                        <img height="30" src="/assets/meetup.png" alt="Meetup"/>
                                     </a>
                                 </li>
                             </ul>
